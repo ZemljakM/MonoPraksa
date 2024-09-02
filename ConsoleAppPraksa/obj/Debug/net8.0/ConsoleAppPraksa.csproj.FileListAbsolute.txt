@@ -1,0 +1,14 @@
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\bin\Debug\net8.0\ConsoleAppPraksa.exe
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\bin\Debug\net8.0\ConsoleAppPraksa.deps.json
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\bin\Debug\net8.0\ConsoleAppPraksa.runtimeconfig.json
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\bin\Debug\net8.0\ConsoleAppPraksa.dll
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\bin\Debug\net8.0\ConsoleAppPraksa.pdb
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\ConsoleAppPraksa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\ConsoleAppPraksa.AssemblyInfoInputs.cache
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\ConsoleAppPraksa.AssemblyInfo.cs
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\ConsoleAppPraksa.csproj.CoreCompileInputs.cache
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\ConsoleAppPraksa.dll
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\refint\ConsoleAppPraksa.dll
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\ConsoleAppPraksa.pdb
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\ConsoleAppPraksa.genruntimeconfig.cache
+C:\Users\marij\source\repos\ConsoleAppPraksa\ConsoleAppPraksa\obj\Debug\net8.0\ref\ConsoleAppPraksa.dll
